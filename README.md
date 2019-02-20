@@ -11,13 +11,13 @@
 
 # 快速导航
 
-- [ JavaScript ](./JavaScript/index.md)
-- [ CSS&&HTML ](./CSS&&HTML/index.md)
-- [ Node ](./Node/index.md)
-- [ React ](./React/index.md)
-- [ Vue ](./Vue/index.md)
-- [ web安全 ](./web安全/index.md)
-- [ 框架通识 ](./框架通识/index.md)
-- [ 泛化题 ](./泛化题/index.md)
-- [ 算法 ](./算法/index.md)
-- [ 计算机网络 ](./计算机网络/index.md)
+- [JavaScript](./JavaScript/index.md)
+- [CSS&&HTML](./CSS&&HTML/index.md)
+- [Node](./Node/index.md)
+- [React](./React/index.md)
+- [Vue](./Vue/index.md)
+- [web安全](./web安全/index.md)
+- [框架通识](./框架通识/index.md)
+- [泛化题](./泛化题/index.md)
+- [算法](./算法/index.md)
+- [计算机网络](./计算机网络/index.md)
