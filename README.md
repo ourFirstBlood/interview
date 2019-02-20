@@ -1,3 +1,5 @@
+>  [进入github主页](https://ourfirstblood.github.io/interview/)
+
 # 概要
 
 面试题整合的仓库，以知识点出发到题目。
