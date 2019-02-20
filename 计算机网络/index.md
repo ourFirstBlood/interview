@@ -39,11 +39,11 @@ HTTP协议采用“请求-应答”模式，当使用普通模式，即非Keep-A
 
 ### HTTP方法
 
-GET：获取资源
-POST：传输资源
-PUT：更新资源
-DELETE：删除资源
-HEAD：获取报文首部
+- GET：获取资源
+- POST：传输资源
+- PUT：更新资源
+- DELETE：删除资源
+- HEAD：获取报文首部
 
 ### POST和GET的区别
 
