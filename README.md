@@ -21,6 +21,8 @@
 - [web安全](./web安全/index.md)
 - [框架通识](./框架通识/index.md)
 - [泛化题](./泛化题/index.md)
-- [游览器](./游览器/index.md)
+- [浏览器](./浏览器/index.md)
 - [算法](./算法/index.md)
 - [计算机网络](./计算机网络/index.md)
+
+
